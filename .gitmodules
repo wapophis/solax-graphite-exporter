@@ -1,0 +1,3 @@
+[submodule "solaxrestclient"]
+	path = solaxrestclient
+	url = https://github.com/wapophis/solaxrestclient
